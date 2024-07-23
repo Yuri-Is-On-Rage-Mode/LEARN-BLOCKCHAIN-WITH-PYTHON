@@ -85,3 +85,20 @@ Dive into the world of blockchain with our super cool Python scripts and example
         - Start the server by typing **python ChatServer.py**. Then, launch the chat app with **python ChatApp.py**. Create your own users and chat all day long with your friends! 🗣️🎉
         - **NOTE:** For network chatting, host `ChatServer.py` on your home server and run `ChatApp.py` on your local network. Enjoy the endless chatting! 🌐🎈
     - Feeling bored? Run **python MessageViewer.py <fileaddress>** to see your messages come to life with animation. 📽️🎨
+ 
+
+## 👐 How to Contribute
+
+1. Fork the repo (because sharing is caring) 🍴
+2. Create a new branch (git checkout -b feature/YourFeature) 🌿
+3. Commit your changes (git commit -am 'Add new feature') 💾
+4. Push to your branch (git push origin feature/YourFeature) 🚀
+5. Open a Pull Request (show off your work!) 💪
+
+## 📜 License
+
+This project is licensed under the MIT License. Check out the LICENSE file for all the fine print. ✨
+
+## 📧 Contact
+
+Got questions, feedback, or just want to chat? Join our discord Server, you'll find that in [**HERE**](https://discord.com/invite/dW6C5W9t). 💬
