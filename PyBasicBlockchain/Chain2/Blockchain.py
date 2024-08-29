@@ -6,7 +6,7 @@ if __name__ == "__main__":
 
     # Add some messages 📩
     messaging_blockchain.add_message({"sender": "Alice", "recipient": "Bob", "content": "Hello, Bob!", "timestamp": time()})
-    messaging_blockchain.add_message({"sender": "Bob", "recipient": "Alice", "content": "Hi, Alice!", "timestamp": time()})
+    messaging_blockchain.add_message("sender": "Bob", "recipient": "Alice", "content": "Hi, Alice!", "timestamp": time()})
 
     print("Mining pending messages...⛏️")
     messaging_blockchain.mine_pending_messages("Miner1")  # Mine those messages! 🤑

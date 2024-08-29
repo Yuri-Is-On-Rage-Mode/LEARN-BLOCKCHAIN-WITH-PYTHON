@@ -1,0 +1,10 @@
+--serve ./
+--newdb MyDatabase --dbpath ./
+--newtable MyTable --columns Name Age --dbpath ./db1
+--insert John 30 --dbpath ./db1/table1.json
+--insert Alice 25 --dbpath ./db1/table1.json
+--replace John 30 Jane 28 --dbpath ./db1/table1.json
+--showgrid --dbpath ./db1/table1.json
+--savetable /backup/location --dbpath ./db1/table1.json
+--savedb /backup/db_location --dbpath ./db1
+--saveall /backup/all_location --serve ./
