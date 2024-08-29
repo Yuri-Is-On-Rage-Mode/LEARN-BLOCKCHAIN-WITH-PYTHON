@@ -1,5 +1,8 @@
 # LEARN-BLOCKCHAIN-WITH-PYTHON 
-*(version-1) (21-JULY-2024)*
+
+## *UPADTE:* Added Chain3!
+
+*(version-2) (21-JULY-2024)*
 
 ```
 $$\                                                    $$$$$$$\  $$\                     $$\                 $$\                 $$\           
